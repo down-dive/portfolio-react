@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Gallery() {
+function Portfolio() {
   return (
     <section>
       <h1>PROJECT</h1>
@@ -8,4 +8,4 @@ function Gallery() {
     </section>
   );
 }
-export default Gallery;
+export default Portfolio;
