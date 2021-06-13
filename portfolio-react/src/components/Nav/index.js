@@ -48,15 +48,17 @@ export default function Nav(props) {
                             Contact
             </a>
                     </li>
-                    {/* <li className={`mx-2 ${contactSelected && 'navActive'}`}>
-                        <span onClick={() => setContactSelected(true)}>Contact</span>
-                    </li> */}
-                    <li className={`mx-2 ${contactSelected && 'navActive'}`}>
-                        <span onClick={() => setContactSelected(false)}>Portfolio</span>
+                    <li className="mx-2">
+                        <a href="#portfolio" onClick={() => setContactSelected(false)}>
+                            Portfolio
+            </a>
                     </li>
-                    <li className={`mx-2 ${contactSelected && 'navActive'}`}>
-                        <span onClick={() => setContactSelected(true)}>Resume</span>
+                    <li className="mx-2">
+                        <a href="#resume" onClick={() => setContactSelected(false)}>
+                            Resume
+            </a>
                     </li>
+
                 </ul>
         </Toolbar>
       </AppBar>
