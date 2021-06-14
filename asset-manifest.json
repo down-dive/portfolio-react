@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%7BYevT-portfolio-react%7D/static/css/main.dbb38393.chunk.css",
+    "main.js": "/%7BYevT-portfolio-react%7D/static/js/main.52d47b3b.chunk.js",
+    "main.js.map": "/%7BYevT-portfolio-react%7D/static/js/main.52d47b3b.chunk.js.map",
+    "runtime-main.js": "/%7BYevT-portfolio-react%7D/static/js/runtime-main.c19b10f2.js",
+    "runtime-main.js.map": "/%7BYevT-portfolio-react%7D/static/js/runtime-main.c19b10f2.js.map",
+    "static/js/2.8d0e448b.chunk.js": "/%7BYevT-portfolio-react%7D/static/js/2.8d0e448b.chunk.js",
+    "static/js/2.8d0e448b.chunk.js.map": "/%7BYevT-portfolio-react%7D/static/js/2.8d0e448b.chunk.js.map",
+    "static/js/3.7a04017a.chunk.js": "/%7BYevT-portfolio-react%7D/static/js/3.7a04017a.chunk.js",
+    "static/js/3.7a04017a.chunk.js.map": "/%7BYevT-portfolio-react%7D/static/js/3.7a04017a.chunk.js.map",
+    "index.html": "/%7BYevT-portfolio-react%7D/index.html",
+    "static/css/main.dbb38393.chunk.css.map": "/%7BYevT-portfolio-react%7D/static/css/main.dbb38393.chunk.css.map",
+    "static/js/2.8d0e448b.chunk.js.LICENSE.txt": "/%7BYevT-portfolio-react%7D/static/js/2.8d0e448b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c19b10f2.js",
+    "static/js/2.8d0e448b.chunk.js",
+    "static/css/main.dbb38393.chunk.css",
+    "static/js/main.52d47b3b.chunk.js"
+  ]
+}
