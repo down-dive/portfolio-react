@@ -16,11 +16,11 @@ const useStyles = makeStyles({
 const PortfolioCard = ({ name, github, deployedlink, tools, img}) => {
   const classes = useStyles();
   return (
-    <Card className={classes.root}>
-      <CardActionArea>
+    <Card class="container" className={classes.root}>
+      <CardActionArea class="content-container">
         <CardMedia
           className={classes.media}
-          img={img}
+          image={img}
           title={name}
         />
         <CardContent>
@@ -28,10 +28,10 @@ const PortfolioCard = ({ name, github, deployedlink, tools, img}) => {
             {name}
           </Typography>
           <Typography variant="body2" color="textSecondary" component="p">
-            {github}
+          <a href= {github}>Github</a>
           </Typography>
           <Typography variant="body2" color="textSecondary" component="p">
-            {deployedlink}
+          <a href= {deployedlink}>Deployed link</a>
           </Typography>
           <Typography variant="body2" color="textSecondary" component="p">
             {tools}

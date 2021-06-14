@@ -2,7 +2,7 @@
     {
         "id": 1, 
         "name": "budget-tracker-pwa",
-        "img": "./src/assets/images/01.png",
+        "img": "./assets/images/01.png",
         "github": "https://github.com/down-dive/budget-tracker-pwa",
         "deployedlink": "https://sleepy-escarpment-77025.herokuapp.com/",
         "tools":"Progressive PWA"
@@ -19,7 +19,7 @@
     {
         "id": 3,
         "name": "Yev_Terlyuk-portfolio",
-        "img": "./src/assets/images/03.png",
+        "img": "./assets/images/03.png",
         "github": "https://github.com/down-dive/Yev_Terlyuk-portfolio",
         "deployedlink": "https://down-dive.github.io/Yev_Terlyuk-portfolio/",
         "tools": "HTML, CSS"
@@ -29,7 +29,7 @@
     {
         "id": 4,
         "name": "password-generator",
-        "img": "./src/assets/images/04.png",
+        "img": "./assets/images/04.png",
         "github": "https://github.com/down-dive/password-generator",
         "deployedlink": "https://down-dive.github.io/password-generator/",
         "tools": "JavaScript, HTML, Advanced CSS"
@@ -38,7 +38,7 @@
     {
         "id": 5,
         "name": "Coding-Quiz-YevT",
-        "img": "./src/assets/images/05.png",
+        "img": "./assets/images/05.png",
         "github": "https://github.com/down-dive/Coding-Quiz-YevT",
         "deployedlink": "https://down-dive.github.io/Coding-Quiz-YevT/?",
         "tools": "WebAPI, JavaScript, HTML, Advanced CSS"
@@ -47,7 +47,7 @@
     {
         "id": 6,
         "name": "work-day-scheduler",
-        "img": "./src/assets/images/06.png",
+        "img": "./assets/images/06.png",
         "github": "https://github.com/down-dive/work-day-scheduler",
         "deployedlink": "https://down-dive.github.io/work-day-scheduler/",
         "tools": "Third-Party API, JavaScript, HTML, Advanced CSS"
@@ -56,7 +56,7 @@
     {
         "id": 7,
         "name": "weather-api",
-        "img": "./src/assets/images/07.png",
+        "img": "./assets/images/07.png",
         "github": "https://github.com/down-dive/weather-api",
         "deployedlink": "https://down-dive.github.io/weather-api/",
         "tools": "Server-Side API, JavaScript, HTML, Advanced CSS"
@@ -65,7 +65,7 @@
     {
         "id": 8,
         "name": "Pokemon-Bootcamp-Battle",
-        "img": "./src/assets/images/08.png",
+        "img": "./assets/images/08.png",
         "github": "https://github.com/MeganClo/Pokemon-Bootcamp-Battle",
         "deployedlink": "https://meganclo.github.io/Pokemon-Bootcamp-Battle/",
         "tools": "Interactive Front-End Project, JavaScript, HTML, Advanced CSS"
@@ -74,7 +74,7 @@
     {
         "id": 9,
         "name": "readme-generator",
-        "img": "./src/assets/videos/09.mov",
+        "img": "./assets/videos/09.mov",
         "github": "https://github.com/down-dive/readme-generator",
         "deployedlink": "",
         "tools": "Node.js"
@@ -83,7 +83,7 @@
     {
         "id": 10,
         "name": "Team-Profile-Generator",
-        "img": "./src/assets/videos/10.mov",
+        "img": "./assets/videos/10.mov",
         "github": "https://github.com/down-dive/Team-Profile-Generator",
         "deployedlink": "",
         "tools": "OOP"
@@ -92,7 +92,7 @@
     {
         "id": 11,
         "name": "note_taker",
-        "img": "./src/assets/images/11.png",
+        "img": "./assets/images/11.png",
         "github": "https://github.com/down-dive/note_taker",
         "deployedlink": "https://ntkr.herokuapp.com/notes",
         "tools": "Express.js, Bootstrap"
@@ -101,7 +101,7 @@
     {
         "id": 12,
         "name": "employee-tracker",
-        "img": "./src/assets/videos/12.mov",
+        "img": "./assets/videos/12.mov",
         "github": "https://github.com/down-dive/employee-tracker",
         "deployedlink": "",
         "tools": "SQL"
@@ -110,7 +110,7 @@
     {
         "id": 13,
         "name": "e-commerce",
-        "img": "./src/assets/videos/13.mov",
+        "img": "./assets/videos/13.mov",
         "github": "https://github.com/down-dive/e-commerce",
         "deployedlink": "",
         "tools": "ORM"
@@ -119,7 +119,7 @@
     {
         "id": 14,
         "name": "fullstack-pokemon-game",
-        "img": "./src/assets/videos/14.png",
+        "img": "./assets/images/14.png",
         "github": "https://github.com/sarahdurks/fullstack-pokemon-game",
         "deployedlink": "https://pokemon-fullstack.herokuapp.com/",
         "tools": "Interactive Full-Stack Project"
@@ -128,7 +128,7 @@
     {
         "id": 15,
         "name": "Regex Tutorial",
-        "img": "./src/assets/videos/15.png",
+        "img": "./assets/videos/15.png",
         "github": "https://gist.github.com/down-dive/4ab186c30a78c19534ab655065bb99a6",
         "deployedlink": "",
         "tools": "Computer Science for JavaScript "
