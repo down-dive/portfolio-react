@@ -19,7 +19,7 @@ function App() {
       <main>
         {!contactSelected ? (
           <>
-            <Portfolio></Portfolio>
+            <Portfolio ></Portfolio>
             <About></About>
             <Resume></Resume>
             <Footer></Footer>

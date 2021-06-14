@@ -3,7 +3,7 @@ import React from 'react';
 function Footer() {
   return (
     <footer>
-      <h1>2021 Yevgeniya Terlyuk</h1>
+      <h3>2021 Yevgeniya Terlyuk</h3>
 
     </footer>
   );
