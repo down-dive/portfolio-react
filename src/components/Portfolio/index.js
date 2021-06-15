@@ -14,6 +14,8 @@ import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import PortfolioCard from '../PortfolioCard';
 import projects from '../../projects.json';
+import './style.css'
+
 const Project = () => {
   // const params = useParams();
   // const history = useHistory();
@@ -25,7 +27,7 @@ const Project = () => {
   // console.log(params);
   // console.log(history);
   return (
-    <div>
+    <div class='container'>
       {projects.map((project) => {
         return <PortfolioCard
         name={project.name}

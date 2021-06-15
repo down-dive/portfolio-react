@@ -5,6 +5,9 @@ import CardActionArea from '@material-ui/core/CardActionArea';
 import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
 import Typography from '@material-ui/core/Typography';
+import './style.css'
+
+
 const useStyles = makeStyles({
   root: {
     maxWidth: 345,
@@ -16,8 +19,8 @@ const useStyles = makeStyles({
 const PortfolioCard = ({ name, github, deployedlink, tools, img}) => {
   const classes = useStyles();
   return (
-    <Card class="container" className={classes.root}>
-      <CardActionArea class="content-container">
+    <Card class="content-container" className={classes.root}>
+      <CardActionArea >
         <CardMedia
           className={classes.media}
           image={img}

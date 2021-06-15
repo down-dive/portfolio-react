@@ -28,3 +28,30 @@ flex-direction: column;
 justify-content: center;
 }
 
+/* .cards {
+  flex-direction: row;
+} */
+
+
+.container {
+  /* display: flex;
+  flex-direction: row;
+  flex-wrap: wrap  !important; */
+  display: grid;
+ 
+grid-template-columns: repeat(3, 1fr);
+ 
+grid-auto-rows: auto;
+grid-auto-flow:column;
+ 
+/* grid-gap: 1rem; */
+}
+
+.content-container {
+  display: inline-grid;
+  border: 2px solid #e7e7e7;
+ 
+border-radius: 4px;
+ 
+padding: .5rem;
+}
