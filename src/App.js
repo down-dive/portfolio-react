@@ -5,6 +5,7 @@ import Portfolio from './components/Portfolio';
 import ContactForm from './components/Contact';
 import Footer from './components/Footer';
 import Resume from './components/Resume';
+import Hero from './components/Hero'
 
 function App() {
 
@@ -12,22 +13,12 @@ function App() {
 
   return (
     <div>
-      <Nav
+      {/* <Nav
         contactSelected={contactSelected}
         setContactSelected={setContactSelected}
-      ></Nav>
-      <main>
-        {!contactSelected ? (
-          <>
-            <Portfolio ></Portfolio>
-            <About></About>
-            <Resume></Resume>
-            <Footer></Footer>
-          </>
-        ) : (
-          <ContactForm></ContactForm>
-        )}
-      </main>
+      ></Nav> */}
+      <Hero />
+  
     </div>
   );
 }
