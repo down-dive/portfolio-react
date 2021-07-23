@@ -22,6 +22,7 @@ function App() {
         <About></About>
         <Resume></Resume>
         <Footer></Footer>
+        <ContactForm></ContactForm>
       </main>
 
     </div>

@@ -5,7 +5,7 @@ import AboutContext from '../AboutContext'
 
 function About() {
   return (
-    <section class="section-about">
+    <section className="section-about" className='about'>
       <AboutHeading />
       <AboutContext />
 
