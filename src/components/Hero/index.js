@@ -4,7 +4,7 @@ import HeroSign from '../HeroSign'
 
 function Header() {
   return (
-    <header>
+    <header className='hero'>
       <HeroSign />
 
     </header>
