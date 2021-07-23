@@ -13,16 +13,12 @@ function App() {
 
   return (
     <div>
-      <Nav
+      {/* <Nav
         contactSelected={contactSelected}
         setContactSelected={setContactSelected}
-      ></Nav>
-      {/* <Hero /> */}
-      <main>
-        <About></About>
-        <Resume></Resume>
-        <Footer></Footer>
-      </main>
+      ></Nav> */}
+      <Hero />
+
 
     </div>
   );

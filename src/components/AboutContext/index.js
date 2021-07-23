@@ -1,5 +1,7 @@
 import React from 'react';
 
+import AboutImages from '../AboutImages'
+
 export default function HeroContext() {
     return (
         <div class="row">
@@ -17,6 +19,7 @@ export default function HeroContext() {
 
             <a href="#" class="btn-text">Learn more &rarr;</a>
         </div>
+        <AboutImages />
     </div>
     )
 }
