@@ -19,10 +19,11 @@ function App() {
       ></Nav>
       {/* <Hero /> */}
       <main>
+        <Portfolio ></Portfolio>
         <About></About>
         <Resume></Resume>
         <Footer></Footer>
-        <ContactForm></ContactForm>
+        {/* <ContactForm></ContactForm> */}
       </main>
 
     </div>
