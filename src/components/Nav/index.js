@@ -28,40 +28,24 @@ export default function Nav(props) {
   } = props;
 
   return (
-    <div className={classes.root}>
-      <AppBar position="static">
-        <Toolbar>
-          {/* <IconButton edge="start" className={classes.menuButton} color="inherit" aria-label="menu">
-            <MenuIcon />
-          </IconButton> */}
-          <Typography variant="h6" className={classes.title}>
-          Yevgeniya Terlyuk
-          </Typography>
-          <ul className="flex-row">
-                    <li className="mx-2">
-                        <a href="#about" onClick={() => setContactSelected(false)}>
-                            About me
-            </a>
-                    </li>
-                    <li className="mx-2">
-                        <a href="#contact" onClick={() => setContactSelected(true)}>
-                            Contact
-            </a>
-                    </li>
-                    <li className="mx-2">
-                        <a href="#portfolio" onClick={() => setContactSelected(false)}>
-                            Portfolio
-            </a>
-                    </li>
-                    <li className="mx-2">
-                        <a href="#resume" onClick={() => setContactSelected(false)}>
-                            Resume
-            </a>
-                    </li>
+    <div className="navigation">
+        <input type="checkbox" className="navigation__checkbox" id="navi-toggle"></input>
 
-                </ul>
-        </Toolbar>
-      </AppBar>
-    </div>
+        <label for="navi-toggle" class="navigation__button">
+                <span class="navigation__icon">&nbsp;</span>
+            </label>
+            <div class="navigation__background">&nbsp;</div>
+            <nav class="navigation__nav">
+                <ul class="navigation__list">
+                    <li class="navigation__item"><a href="#" class="navigation__link"><span>01</span>About Natous</a></li>
+                    <li class="navigation__item"><a href="#" class="navigation__link"><span>02</span>Your benfits</a></li>
+                    <li class="navigation__item"><a href="#" class="navigation__link"><span>03</span>Popular tours</a></li>
+                    <li class="navigation__item"><a href="#" class="navigation__link"><span>04</span>Stories</a></li>
+                    <li class="navigation__item"><a href="#" class="navigation__link"><span>05</span>Book now</a></li>
+                    </ul>
+            </nav>
+
+</div>
+  
   );
 }
