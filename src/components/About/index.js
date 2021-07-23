@@ -4,10 +4,9 @@ import React from 'react';
 
 function About() {
   return (
-      <div>
-        <h1 className='heading-secondary'>The secret of getting ahead is getting started.</h1>
-        
-    </div>
+    <section class="section-about">
+
+</section>
   );
 }
 
