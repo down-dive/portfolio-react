@@ -579,7 +579,9 @@
       top: 40%;
       left: 50%;
       transform: translate(-50%, -50%);
-      text-align: center; }
+      text-align: center; 
+      margin-top: -5rem;
+    }
   
   .navigation__checkbox {
     display: none; }
@@ -729,3 +731,18 @@
       width: 50%;
       padding: 6rem; }
   
+/* .hero {
+  position:relative;
+  margin: 20rem;
+} */
+.hero {
+  display: flex;
+  /* padding: 50px 50px 80px 50px; */
+  position:relative;
+  margin: 48rem;
+}
+
+
+.navigation {
+  position: relative;
+}
