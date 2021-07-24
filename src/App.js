@@ -17,13 +17,13 @@ function App() {
         contactSelected={contactSelected}
         setContactSelected={setContactSelected}
       ></Nav>
-      {/* <Hero /> */}
+      <Hero />
       <main>
         <Portfolio ></Portfolio>
         <About></About>
         <Resume></Resume>
         <Footer></Footer>
-        {/* <ContactForm></ContactForm> */}
+        <ContactForm></ContactForm>
       </main>
 
     </div>
