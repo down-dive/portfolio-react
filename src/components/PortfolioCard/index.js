@@ -56,11 +56,9 @@ export default function PortfolioCard({ name, github, deployedlink, tools, img }
             </h4>
             <div class="card__details">
               <ul>
-                <li>{name}</li>
-                <li><a href= {github}>Github</a></li>
-                <li><a href= {deployedlink}>Deployed link</a></li>
+                <li><a className='link' href= {github}>Github</a></li>
+                <li><a className='link' href= {deployedlink}>Deployed link</a></li>
                 <li>{tools}</li>
-                <li>Difficulty: easy</li>
               </ul>
             </div>
         </div>

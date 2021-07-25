@@ -16,8 +16,6 @@ export default function HeroContext() {
             <p class="paragraph">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores nulla deserunt voluptatum nam.
             </p>
-
-            <a href="#" class="btn-text">Learn more &rarr;</a>
         </div>
         <AboutImages />
     </div>
