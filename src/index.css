@@ -76,6 +76,7 @@ body {
   animation-name: moveInLeft;
   animation-duration: 1s;
   animation-timing-function: ease-out;
+  margin-top: -19rem;
   /*
           animation-delay: 3s;
           animation-iteration-count: 3;
@@ -915,4 +916,8 @@ text-align: center;
 #root {
   padding-bottom:60px;
 
+}
+
+.contact-section {
+  background-color: red;
 }

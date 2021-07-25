@@ -130,6 +130,7 @@ import React, { useState } from "react";
 const ContactForm = () => {
   const [status, setStatus] = useState("Submit");
   const handleSubmit = async (e) => {
+    console.log('I was clicked')
     e.preventDefault();
     setStatus("Sending...");
     const { name, email, message } = e.target.elements;
@@ -150,6 +151,7 @@ const ContactForm = () => {
     alert(result.status);
   };
   return (
+    <section className='contact-section'> 
     <form onSubmit={handleSubmit}>
       <div>
         <label htmlFor="name">Name:</label>
@@ -165,6 +167,7 @@ const ContactForm = () => {
       </div>
       <button type="submit">{status}</button>
     </form>
+    </section>
   );
 };
 
