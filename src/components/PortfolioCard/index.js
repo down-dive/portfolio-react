@@ -47,7 +47,7 @@ import React from 'react';
 
 // export default PortfolioCard
 
-export default function PortfolioCard({ name, github, deployedlink, tools, img }) {
+export default function PortfolioCard({ name, github, deployedlink, tools, img , role}) {
   return (
     <div class="col-1-of-3">
         <div class="card">
@@ -59,6 +59,7 @@ export default function PortfolioCard({ name, github, deployedlink, tools, img }
                 <li><a className='link' href= {github}>Github</a></li>
                 <li><a className='link' href= {deployedlink}>Deployed link</a></li>
                 <li>{tools}</li>
+                <li>{role}</li>
               </ul>
             </div>
         </div>

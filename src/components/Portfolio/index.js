@@ -78,6 +78,7 @@ export default function Portfolio() {
         img={project.img}
         deployedlink={project.deployedlink}
         tools={project.tools}
+        role={project.role}
       />
       }) }
 

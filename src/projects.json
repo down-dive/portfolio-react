@@ -1,138 +1,137 @@
 [
     {
-        "id": 1, 
-        "name": "budget-tracker-pwa",
-        "img": "./assets/images/01.png",
-        "github": "https://github.com/down-dive/budget-tracker-pwa",
-        "deployedlink": "https://sleepy-escarpment-77025.herokuapp.com/",
-        "tools":"Progressive PWA"
+        "id": 0,
+        "name": "monstera",
+        "img": "./assets/images/00.png",
+        "github": "https://github.com/down-dive/monstera",
+        "deployedlink": "https://monstera2.herokuapp.com/",
+        "tools": "MERN Stack, Material UI, Heroku, Google API, GraphQL, Apollo Server and Provider",
+        "role": "Scrum master and Originator of the idea. I was working closely with React, Apollo Server and Material UI "
+    },
+    {
+        "id": 1,
+        "name": "book search",
+        "img": "./assets/images/00.png",
+        "github": "https://github.com/down-dive/book-search",
+        "deployedlink": "https://book-search-yev.herokuapp.com/",
+        "tools": "MERN Stack, JSON Web Token (JWT), Heroku, Google Books API, GraphQL, Apollo Server and Provider, Node.js (express.js)",
+        "role": "Sole Author"
     },
     {
         "id": 2,
-        "name": "socialNetworkAPI",
-        "img": "./src/assets/videos/02.mov",
-        "github": "https://github.com/down-dive/budget-tracker-pwa",
-        "deployedlink": "",
-        "tools":"NoSQL"
-
+        "name": "shop shop",
+        "img": "./assets/images/00.png",
+        "github": "https://github.com/down-dive/shop-shop",
+        "deployedlink": "https://shop-shop-yev.herokuapp.com/",
+        "tools": "React, GraphQL, pollo Server and Provider, Node.js (express.js)",
+        "role": "Sole Author"
     },
     {
         "id": 3,
-        "name": "Yev_Terlyuk-portfolio",
-        "img": "./assets/images/03.png",
-        "github": "https://github.com/down-dive/Yev_Terlyuk-portfolio",
-        "deployedlink": "https://down-dive.github.io/Yev_Terlyuk-portfolio/",
-        "tools": "HTML, CSS"
-
-
+        "name": "budget tracker",
+        "img": "./assets/images/01.png",
+        "github": "https://github.com/down-dive/budget-tracker",
+        "deployedlink": "https://budget-tracker-yev.herokuapp.com/",
+        "tools": "Progressive PWA,  Node.js (express.js, mongoose), MongoDB, Service Workers, JavaScript, HTML, CSS",
+        "role": "Sole Author"
     },
     {
         "id": 4,
-        "name": "password-generator",
-        "img": "./assets/images/04.png",
-        "github": "https://github.com/down-dive/password-generator",
-        "deployedlink": "https://down-dive.github.io/password-generator/",
-        "tools": "JavaScript, HTML, Advanced CSS"
-
+        "name": "social network",
+        "img": "./src/assets/videos/02.mov",
+        "github": "https://github.com/down-dive/social-network",
+        "deployedlink": "",
+        "tools": "NoSQL, MongoDB, JavaScript, Node.js (express.js, mongoose, dotenv)",
+        "role": "Sole Author"
     },
     {
         "id": 5,
-        "name": "Coding-Quiz-YevT",
-        "img": "./assets/images/05.png",
-        "github": "https://github.com/down-dive/Coding-Quiz-YevT",
-        "deployedlink": "https://down-dive.github.io/Coding-Quiz-YevT/?",
-        "tools": "WebAPI, JavaScript, HTML, Advanced CSS"
-
+        "name": "password generator",
+        "img": "./assets/images/04.png",
+        "github": "https://github.com/down-dive/password-generator",
+        "deployedlink": "https://down-dive.github.io/password-generator/",
+        "tools": "JavaScript, HTML, Advanced CSS",
+        "role": "Sole Author"
     },
     {
         "id": 6,
-        "name": "work-day-scheduler",
-        "img": "./assets/images/06.png",
-        "github": "https://github.com/down-dive/work-day-scheduler",
-        "deployedlink": "https://down-dive.github.io/work-day-scheduler/",
-        "tools": "Third-Party API, JavaScript, HTML, Advanced CSS"
-
+        "name": "coding quiz",
+        "img": "./assets/images/05.png",
+        "github": "https://github.com/down-dive/coding-quiz",
+        "deployedlink": "https://down-dive.github.io/coding-quiz",
+        "tools": "WebAPI, JavaScript, HTML, Advanced CSS",
+        "role": "Sole Author"
     },
     {
         "id": 7,
-        "name": "weather-api",
-        "img": "./assets/images/07.png",
-        "github": "https://github.com/down-dive/weather-api",
-        "deployedlink": "https://down-dive.github.io/weather-api/",
-        "tools": "Server-Side API, JavaScript, HTML, Advanced CSS"
-
+        "name": "work day scheduler",
+        "img": "./assets/images/06.png",
+        "github": "https://github.com/down-dive/scheduler",
+        "deployedlink": "https://down-dive.github.io/scheduler/",
+        "tools": "Third-Party API, JavaScript, HTML, Advanced CSS",
+        "role": "Sole Author"
     },
     {
         "id": 8,
-        "name": "Pokemon-Bootcamp-Battle",
+        "name": "Pokemon Bootcamp Battle",
         "img": "./assets/images/08.png",
         "github": "https://github.com/MeganClo/Pokemon-Bootcamp-Battle",
         "deployedlink": "https://meganclo.github.io/Pokemon-Bootcamp-Battle/",
-        "tools": "Interactive Front-End Project, JavaScript, HTML, Advanced CSS"
-
+        "tools": "JavaScript, HTML, Foundation, jQuery, Figma, PokéAPI, Random User API",
+        "role": "I was working on the backend for the project, working closely with third-party API's"
     },
     {
         "id": 9,
-        "name": "readme-generator",
+        "name": "readme generator",
         "img": "./assets/videos/09.mov",
         "github": "https://github.com/down-dive/readme-generator",
         "deployedlink": "",
-        "tools": "Node.js"
-
+        "tools": "Node.js",
+        "role": "Sole Author"
     },
     {
         "id": 10,
-        "name": "Team-Profile-Generator",
+        "name": "Team Profile Generator",
         "img": "./assets/videos/10.mov",
         "github": "https://github.com/down-dive/Team-Profile-Generator",
         "deployedlink": "",
-        "tools": "OOP"
-
+        "tools": "OOP, JavaScript, HTML, CSS",
+        "role": "Sole Author"
     },
     {
         "id": 11,
-        "name": "note_taker",
+        "name": "note taker",
         "img": "./assets/images/11.png",
         "github": "https://github.com/down-dive/note_taker",
         "deployedlink": "https://ntkr.herokuapp.com/notes",
-        "tools": "Express.js, Bootstrap"
-
+        "tools": "JavaScript, Node.js (express.js), Bootstrap",
+        "role": "Sole Author"
     },
     {
         "id": 12,
-        "name": "employee-tracker",
-        "img": "./assets/videos/12.mov",
-        "github": "https://github.com/down-dive/employee-tracker",
-        "deployedlink": "",
-        "tools": "SQL"
-
-    },
-    {
-        "id": 13,
         "name": "e-commerce",
         "img": "./assets/videos/13.mov",
         "github": "https://github.com/down-dive/e-commerce",
         "deployedlink": "",
-        "tools": "ORM"
-
+        "tools": "ORM, Node.js (express.js, mysql2, dotenv)",
+        "role": "Sole Author"
     },
     {
-        "id": 14,
-        "name": "fullstack-pokemon-game",
+        "id": 13,
+        "name": "fullstack pokemon game",
         "img": "./assets/images/14.png",
         "github": "https://github.com/sarahdurks/fullstack-pokemon-game",
         "deployedlink": "https://pokemon-fullstack.herokuapp.com/",
-        "tools": "Interactive Full-Stack Project"
-
+        "tools": "JavaScript, ES6, Node.js (express.js, mysql2, sequelize, nodemon, dotenv, express-handlebars), Heroku, PokéAPI, Socket.io",
+        "role": "I was working on the frontend of the project, working closely with footer and troubleshooting issues before deploying"
     },
     {
-        "id": 15,
+        "id": 14,
         "name": "Regex Tutorial",
         "img": "./assets/videos/15.png",
         "github": "https://gist.github.com/down-dive/4ab186c30a78c19534ab655065bb99a6",
         "deployedlink": "",
-        "tools": "Computer Science for JavaScript "
-
+        "tools": "Computer Science for JavaScript",
+        "role": "Sole Author"
     }
-
 ]
