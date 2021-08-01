@@ -4,6 +4,7 @@ function Footer() {
   return (
     <footer className='footer'>
       <h3 className='footer-text' >2021 Yevgeniya Terlyuk</h3>
+      <h3 className='footer-navigaiton' >2021 Yevgeniya Terlyuk</h3>
 
     </footer>
 

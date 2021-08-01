@@ -1,11 +1,11 @@
 import React from 'react';
 
-export default function Nav(props) {
-  const {
-    categories = [],
-    contactSelected,
-    setContactSelected
-  } = props;
+export default function Nav() {
+  // const {
+  //   categories = [],
+  //   contactSelected,
+  //   setContactSelected
+  // } = props;
 
   return (
     <div className="navigation">
@@ -17,7 +17,7 @@ export default function Nav(props) {
       <div className="navigation__background">&nbsp;</div>
       <nav className="navigation__nav">
         <ul className="navigation__list">
-          <li className="mx-2" className="navigation__item"><a href="#about" className="navigation__link" onClick={() => setContactSelected(false)}>
+          <li className="mx-2" className="navigation__item"><a href="#about" className="navigation__link" >
             About me
           </a></li>
           <li className="navigation__item"><a href="#contact" className="navigation__link"><span>02</span>Contact</a></li>
