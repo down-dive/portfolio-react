@@ -79,6 +79,7 @@ export default function Projects() {
         deployedlink={project.deployedlink}
         tools={project.tools}
         role={project.role}
+        about={project.about}
       />
       }) }
 

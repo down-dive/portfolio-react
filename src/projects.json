@@ -6,7 +6,8 @@
         "github": "https://github.com/down-dive/monstera",
         "deployedlink": "https://monstera2.herokuapp.com/",
         "tools": "MERN Stack, Material UI, Heroku, Google API, GraphQL, Apollo Server and Provider",
-        "role": "Scrum master and Originator of the idea. I was working closely with React, Apollo Server and Material UI"
+        "role": "Scrum master and Originator of the idea, working closely with React, Apollo Server and Material UI",
+        "about": "An application to help preventing domestic violence, enabling users to send notifications and share their live location with their friends."
     },
     {
         "id": 1,
@@ -15,7 +16,8 @@
         "github": "https://github.com/down-dive/book-search",
         "deployedlink": "https://book-search-yev.herokuapp.com/",
         "tools": "MERN Stack, JSON Web Token (JWT), Heroku, Google Books API, GraphQL, Apollo Server and Provider",
-        "role": "Sole Author"
+        "role": "Sole Author",
+        "about": "An application for searching books and save the results."
     },
     {
         "id": 2,
@@ -24,7 +26,8 @@
         "github": "https://github.com/down-dive/shop-shop",
         "deployedlink": "https://shop-shop-yev.herokuapp.com/",
         "tools": "React, GraphQL, Apollo Server and Provider, Node.js (express.js)",
-        "role": "Sole Author"
+        "role": "Sole Author",
+        "about": "An e-commerce application for shopping lovers"
     },
     {
         "id": 3,
@@ -33,58 +36,65 @@
         "github": "https://github.com/down-dive/budget-tracker",
         "deployedlink": "https://budget-tracker-yev.herokuapp.com/",
         "tools": "Progressive PWA,  Node.js (express.js, mongoose), MongoDB, Service Workers, JavaScript, HTML, CSS",
-        "role": "Sole Author"
+        "role": "Sole Author",
+        "about": "An application to track your withdrawals and deposits with or without a data/internet connection."
     },
 
     {
-        "id": 5,
+        "id": 4,
         "name": "password generator",
         "source": "./assets/images/password generator.png",
         "github": "https://github.com/down-dive/password-generator",
         "deployedlink": "https://down-dive.github.io/password-generator/",
         "tools": "JavaScript, HTML, Advanced CSS",
-        "role": "Sole Author"
+        "role": "Sole Author",
+        "about": "A 'password generator tool' that generates random passwords based on different criteria set by users."
     },
     {
-        "id": 6,
+        "id": 5,
         "name": "coding quiz",
         "source": "./assets/images/coding quiz.png",
         "github": "https://github.com/down-dive/coding-quiz",
         "deployedlink": "https://down-dive.github.io/coding-quiz",
         "tools": "WebAPI, JavaScript, HTML, Advanced CSS",
-        "role": "Sole Author"
+        "role": "Sole Author",
+        "about": "A timed quiz about JavaScript fundamentals with multiple-choice questions and ability to store high scores."
     },
     {
-        "id": 7,
+        "id": 6,
         "name": "work day scheduler",
         "github": "https://github.com/down-dive/scheduler",
         "deployedlink": "https://down-dive.github.io/scheduler/",
         "tools": "Third-Party API, JavaScript, HTML, Advanced CSS",
-        "role": "Sole Author"
+        "role": "Sole Author",
+        "about": "A 'daily planner tool' that enables users to save events for each hour of the day."
     },
     {
-        "id": 8,
+        "id": 7,
         "name": "Pokemon Bootcamp Battle",
         "github": "https://github.com/MeganClo/Pokemon-Bootcamp-Battle",
         "deployedlink": "https://meganclo.github.io/Pokemon-Bootcamp-Battle/",
         "tools": "JavaScript, HTML, Foundation, jQuery, Figma, PokéAPI, Random User API",
-        "role": "I was working on the backend for the project, working closely with third-party API's"
+        "role": "I was working on the backend for the project, working closely with third-party API's",
+        "about": "Pokémon Bootcamp Battles application, where user is able to play with random pokemoin and opponent."
     },
 
     {
-        "id": 11,
+        "id": 8,
         "name": "note taker",
         "github": "https://github.com/down-dive/note_taker",
         "deployedlink": "https://ntkr.herokuapp.com/notes",
         "tools": "JavaScript, Node.js (express.js), Bootstrap",
-        "role": "Sole Author"
+        "role": "Sole Author",
+        "about": "A tool for creating and saving notes."
     },
     {
-        "id": 13,
+        "id": 9,
         "name": "fullstack pokemon game",
         "github": "https://github.com/sarahdurks/fullstack-pokemon-game",
         "deployedlink": "https://pokemon-fullstack.herokuapp.com/",
         "tools": "JavaScript, ES6, Node.js (express.js, mysql2, sequelize, nodemon, dotenv, express-handlebars), Heroku, PokéAPI, Socket.io",
-        "role": "I was working on the frontend of the project, working closely with footer and troubleshooting issues before deploying"
+        "role": "I was working on the frontend of the project, working closely with footer and troubleshooting issues before deploying",
+        "about": "A simple game built around the idea of 'drafting' a Pokémon team. Players are able to review stats of 'free agent' pokemon to draft and claim them, with the data saved for future play."
     }
 ]

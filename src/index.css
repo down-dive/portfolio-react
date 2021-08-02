@@ -208,7 +208,7 @@ body {
   perspective: 15rem;
   -moz-perspective: 150rem;
   position: relative;
-  height: 42rem;
+  height: 48rem;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
   margin-top: 3rem;
 }
@@ -226,7 +226,7 @@ body {
 }
 .card__picture {
   background-size: cover;
-  height: 31rem;
+  height: 30rem;
   background-blend-mode: screen;
   /* -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%); */
   /* clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%); */
