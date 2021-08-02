@@ -8,7 +8,6 @@ function About() {
     <section className="section-about" id="about" className='about'>
       <AboutHeading />
       <AboutContext />
-
 </section>
   );
 }

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Nav from './components/Nav';
 import About from './components/About';
-import Portfolio from './components/Portfolio';
+import Projects from './components/Projects';
 import ContactForm from './components/Contact';
 import Footer from './components/Footer';
 import Resume from './components/Resume';
@@ -14,12 +14,10 @@ function App() {
   return (
     <div>
       <Nav
-        contactSelected={contactSelected}
-        setContactSelected={setContactSelected}
       ></Nav>
       <Hero />
       <main>
-        <Portfolio ></Portfolio>
+        <Projects ></Projects>
         <About></About>
         <Resume></Resume>
         <ContactForm></ContactForm>
