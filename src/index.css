@@ -634,16 +634,19 @@ body {
 .footer-text {
 text-align: start;
 }
+
 .footer-links {
 text-align: end;
 }
+
 .footer-linkedin {
 text-align: center;
 margin-right: -70rem;
 }
+
 .footer-github {
 text-align: center;
-margin-right: -18rem;
+margin-right: -20rem;
 }
 
 #root {
