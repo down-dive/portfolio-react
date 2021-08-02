@@ -116,7 +116,6 @@ export default function ProjectsCard({ name, github, deployedlink, tools, source
       <div className="card">
 <div className="col-1-of-2">
           <img className="card__picture card__picture--1" src={image}/>
-          
           </div>
           <div className="col-1-of-2">
           <h4 class="card__heading">
