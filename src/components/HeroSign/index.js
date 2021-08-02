@@ -8,7 +8,7 @@ function HeroSign() {
         <span className="heading-primary--sub">Portfolio</span>
     </h1>
 
-    <a href="#" className="btn btn--white btn--animated">Discover projects</a>
+    <a href="#projects" className="btn btn--white btn--animated">Discover projects</a>
 </div>
   );
 }

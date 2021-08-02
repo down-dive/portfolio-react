@@ -169,25 +169,25 @@ const ContactForm = () => {
     // </form>
     // </section>
 
-    <section class="section-book">
-      <div class="row">
-        <div class="book">
-          <div class="book__form">
-            <form action="#" class="form">
-              <div class="u-margin-bottom-medium">
-                <h2 class="heading-secondary">
+    <section id="contact" className="section-book">
+      <div className="row">
+        <div className="book">
+          <div className="book__form">
+            <form action="#" className="form">
+              <div className="u-margin-bottom-medium">
+                <h2 className="heading-secondary">
                   Contact
                 </h2>
               </div>
 
-              <div class="form__group">
-                <input type="text" class="form__input" placeholder="Full name" id="name" required />
-                  <label for="name" class="form__label">Full name</label>
+              <div className="form__group">
+                <input type="text" className="form__input" placeholder="Full name" id="name" required />
+                  <label for="name" className="form__label">Full name</label>
                                 </div>
 
-                <div class="form__group">
-                  <input type="email" class="form__input" placeholder="Email address" id="email" required />
-                    <label for="email" class="form__label">Email address</label>
+                <div className="form__group">
+                  <input type="email" className="form__input" placeholder="Email address" id="email" required />
+                    <label for="email" className="form__label">Email address</label>
                                 </div>
                             </form>
                   </div>

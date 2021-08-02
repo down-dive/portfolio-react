@@ -17,11 +17,9 @@ export default function Nav() {
       <div className="navigation__background">&nbsp;</div>
       <nav className="navigation__nav">
         <ul className="navigation__list">
-          <li className="mx-2" className="navigation__item"><a href="#about" className="navigation__link" >
-            About me
-          </a></li>
+          <li className="navigation__item"><a href="#about" className="navigation__link"><span>02</span>About me</a></li>
           <li className="navigation__item"><a href="#contact" className="navigation__link"><span>02</span>Contact</a></li>
-          <li className="navigation__item"><a href="#" className="navigation__link"><span>03</span>Portfolio</a></li>
+          <li className="navigation__item"><a href="#projects" className="navigation__link"><span>03</span>Projects</a></li>
           <li className="navigation__item"><a href="#resume" className="navigation__link"><span>04</span>Resume</a></li>
         </ul>
       </nav>
