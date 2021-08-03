@@ -1,5 +1,5 @@
 
-import image from '../../assets/images/book search.png'
+// import image from '../../assets/images/book search.png'
 
 export default function ProjectsCard({ name, github, deployedlink, tools, source, role, about }) {
 
@@ -7,7 +7,7 @@ export default function ProjectsCard({ name, github, deployedlink, tools, source
     <div >
       <div className="card">
         <div className="col-1-of-2">
-          <img className="card__picture card__picture--1" src={image} />
+          <img className="card__picture card__picture--1" src={require(`../../assets/images/${name}.png`).default} />
         </div>
         <div className="col-1-of-2">
           <h4 class="card__heading">
