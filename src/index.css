@@ -133,7 +133,6 @@ body {
 
 .u-margin-top-huge {
   margin-top: 5rem !important;
-  margin-bottom: 10rem;
 }
 
 
@@ -665,4 +664,8 @@ margin-right: -63rem;
 
 .section-contact {
   padding: 3rem 0;}
+
+  .resume {
+    margin: 13rem; 
+  }
 

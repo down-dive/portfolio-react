@@ -1,12 +1,13 @@
-import React from 'react';
-
-import HeroSign from '../HeroSign'
-
 function Header() {
   return (
     <header className='hero'>
-      <HeroSign />
-
+    <div className="header__text-box">
+    <h1 className="heading-primary">
+        <span className="heading-primary--main">Yevgeniya's</span>
+        <span className="heading-primary--sub">Portfolio</span>
+    </h1>
+    <a href="#projects" className="btn btn--white btn--animated">Discover projects</a>
+</div>
     </header>
   );
 }
