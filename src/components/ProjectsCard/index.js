@@ -6,10 +6,10 @@ export default function ProjectsCard({ name, github, deployedlink, tools, source
   return (
     <div >
       <div className="card">
-<div className="col-1-of-2">
-          <img className="card__picture card__picture--1" src={image}/>
-          </div>
-          <div className="col-1-of-2">
+        <div className="col-1-of-2">
+          <img className="card__picture card__picture--1" src={image} />
+        </div>
+        <div className="col-1-of-2">
           <h4 class="card__heading">
             <span class="card__heading-span card__heading-span--1">{name}</span>
           </h4>
@@ -22,7 +22,7 @@ export default function ProjectsCard({ name, github, deployedlink, tools, source
               <li>{about}</li>
             </ul>
           </div>
-          </div>
+        </div>
       </div>
     </div>
   );

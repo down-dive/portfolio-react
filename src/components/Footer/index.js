@@ -15,14 +15,14 @@ function Footer() {
           <div className='footer-links'>
             <div className="row">
               <div className="col-1-of-2" >
-                <div className='footer-github'>
+                <p className='footer-linkedin'>
                   <SocialIcon url="https://linkedin.com/in/yevgeniya-terluyk-034013179/" bgColor="#fff" fgColor="#040605" />
-                </div>
+                </p>
               </div>
               <div className="col-1-of-2" >
-                <div className='footer-github'>
+                <p >
                   <SocialIcon url="https://github.com/down-dive" bgColor="#fff" fgColor="#040605" />
-                </div>
+                </p>
               </div>
             </div>
           </div>

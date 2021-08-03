@@ -324,10 +324,10 @@ body {
 .form__input:focus {
   outline: none;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.1);
-  border-bottom: 3px solid #55c57a;
+  border-bottom: 3px solid #333;
 }
 .form__input:focus:invalid {
-  border-bottom: 3px solid #ff7730;
+  border-bottom: 3px solid #333;
 }
 .form__input::-webkit-input-placeholder {
   color: #999;
@@ -633,6 +633,7 @@ body {
 
 .footer-text {
 text-align: start;
+margin-top: 1rem;
 }
 
 .footer-links {
@@ -641,12 +642,7 @@ text-align: end;
 
 .footer-linkedin {
 text-align: center;
-margin-right: -70rem;
-}
-
-.footer-github {
-text-align: center;
-margin-right: -20rem;
+margin-right: -63rem;
 }
 
 #root {
@@ -666,3 +662,6 @@ margin-right: -20rem;
   background-position: center;
   margin-bottom: 5px;
 }
+
+.section-book {
+  padding: 3rem 0;}

@@ -173,28 +173,44 @@ const ContactForm = () => {
       <div className="row">
         <div className="book">
           <div className="book__form">
-            <form action="#" className="form">
+            <form onSubmit={handleSubmit} action="#" className="form">
               <div className="u-margin-bottom-medium">
                 <h2 className="heading-secondary">
-                  Contact
+                  Contact Me
                 </h2>
               </div>
 
-              <div className="form__group">
-                <input type="text" className="form__input" placeholder="Full name" id="name" required />
-                  <label for="name" className="form__label">Full name</label>
-                                </div>
+              <ul>
+                <li><strong>Email:</strong> <a  className='link' href="mailto:yterlyuk@gmail.com">yterlyuk@gmail.com</a></li>
+                <li><strong>Github:</strong> <a className='link' href="https://github.com/down-dive">down-dive</a></li>
+                <li>
+                  <strong>LinkedIn:</strong> <a className='link' href="www.linkedin.com/in/yevgeniya-terluyk-034013179">Yevgeniya Terlyuk</a>
+                </li>
+              </ul>
 
-                <div className="form__group">
-                  <input type="email" className="form__input" placeholder="Email address" id="email" required />
-                    <label for="email" className="form__label">Email address</label>
-                                </div>
-                            </form>
-                  </div>
-                </div>
+
+              {/* <div className="form__group">
+                <input type="text" className="form__input" placeholder="Full name" id="name" required />
+                <label for="name" className="form__label">Full name</label>
               </div>
-            </section>
-            );
+
+              <div className="form__group">
+                <input type="email" className="form__input" placeholder="Email address" id="email" required />
+                <label for="email" className="form__label">Email address</label>
+              </div>
+              <div className="form__group">
+                <input type="text" className="form__input" placeholder="Message" id="Message" required />
+                <label for="Message" className="form__label">Message</label>
+              </div>
+              <div class="form__group">
+                <button class="btn btn--green">Submit &rarr;</button>
+              </div> */}
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
 };
 
-            export default ContactForm;
+export default ContactForm;
