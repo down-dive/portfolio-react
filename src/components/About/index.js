@@ -4,7 +4,7 @@ import photoThree from '../../assets/nat-7.jpg'
 
 function About() {
   return (
-    <section className="section-about" id="about" className='about'>
+    <section className="section-about" id="about">
         <div class="u-center-text u-margin-bottom-big">
         <h2 class="heading-secondary">
        Getting to know me

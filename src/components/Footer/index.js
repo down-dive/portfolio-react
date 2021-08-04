@@ -20,7 +20,7 @@ function Footer() {
                 </p>
               </div>
               <div className="col-1-of-2" >
-                <p >
+                <p className='footer-github'>
                   <SocialIcon url="https://github.com/down-dive" bgColor="#fff" fgColor="#040605" />
                 </p>
               </div>
