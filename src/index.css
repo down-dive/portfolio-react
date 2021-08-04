@@ -542,6 +542,7 @@ text-align:left;
   width: 0;
   transition: all 0.8s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
+
 @media only screen and (max-width: 56.25em) {
   .navigation__background {
     top: 4.5rem;
