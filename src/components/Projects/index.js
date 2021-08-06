@@ -20,6 +20,9 @@ export default function Projects() {
           Projects
         </h2>
       </div>
+      <div>
+        React All
+      </div>
       <div class="row">
         <div class='container'>
           {projects.map((project) => {
