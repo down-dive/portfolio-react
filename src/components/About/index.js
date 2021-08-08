@@ -17,7 +17,7 @@ function About() {
             Front End Web Developer with a background in customer service and sales in particular. Trained 👩‍🎓 at the UC Berkley Coding Bootcamp and earned a Certificate in Full Stack Web Development. Innovative problem-solver passionate about developing apps.
             </p>
             <p class="paragraph">
-            Very social, team oriented person. My main super power is in the ability to overcome issues in the most efficient and strategic way. Love learning new processes and discovering new tools to ensure achievement of any types of goals whether its a personal of a professional.
+            Very social, team oriented person, with ability to figure out and learn new procceses. Hands on experiences in React, Express.js, Mongoose, Node.js, JavaScript, HTML, Advanced CSS, API's and much more.
             </p>
         </div>
         <div className="col-1-of-2">
