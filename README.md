@@ -17,6 +17,8 @@ The main purpose of this project is to use react for creating a professional por
     - [`npm run build`](#npm-run-build)
     - [`npm run eject`](#npm-run-eject)
   - [Learn More](#learn-more)
+  - [Deployed Application](#deployed-application)
+  - [Contact Information](#contact-information)
 
 ## Technologies
 
@@ -87,4 +89,17 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+## Deployed Application
+
+Please use the following link to view the deployed application on heroku: [Deployed App](https://portfolio-yev.herokuapp.com/)
+
+## Contact Information
+
+
+* [GitHub](https://github.com/down-dive)
+
+* [Email Address](mailto:yterlyuk@gmail.com)
+
 
