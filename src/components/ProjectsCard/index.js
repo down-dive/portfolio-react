@@ -1,13 +1,11 @@
 
-// import image from '../../assets/images/book search.png'
-
 export default function ProjectsCard({ name, github, deployedlink, tools, source, role, about }) {
 
   return (
     <div >
       <div className="card">
         <div className="col-1-of-2">
-          <img className="card__picture card__picture--1" src={require(`../../assets/images/${name}.png`).default} />
+          <img className="card__picture card__picture--1" alt='projects screenshots' src={require(`../../assets/images/${name}.png`).default} />
         </div>
         <div className="col-1-of-2">
           <h4 class="card__heading">

@@ -1,6 +1,7 @@
 [
     {
         "id": 0,
+        "category": "react",
         "name": "monstera",
         "source": "https://github.com/down-dive/YevT-portfolio-react/blob/main/public/assets/images/01.png",
         "github": "https://github.com/down-dive/monstera",
@@ -12,6 +13,7 @@
     {
         "id": 1,
         "name": "book search",
+        "category": "react",
         "source": "./assets/images/book search.png",
         "github": "https://github.com/down-dive/book-search",
         "deployedlink": "https://book-search-yev.herokuapp.com/",
@@ -22,6 +24,7 @@
     {
         "id": 2,
         "name": "shop shop",
+        "category": "react",
         "source": "./assets/images/shop shop.png",
         "github": "https://github.com/down-dive/shop-shop",
         "deployedlink": "https://shop-shop-yev.herokuapp.com/",
@@ -32,6 +35,7 @@
     {
         "id": 3,
         "name": "budget tracker",
+        "category": "Node.js",
         "source": "./assets/images/budget tracker.png",
         "github": "https://github.com/down-dive/budget-tracker",
         "deployedlink": "https://budget-tracker-yev.herokuapp.com/",
@@ -43,6 +47,7 @@
     {
         "id": 4,
         "name": "password generator",
+        "category": "JS, HTML, CSS",
         "source": "./assets/images/password generator.png",
         "github": "https://github.com/down-dive/password-generator",
         "deployedlink": "https://down-dive.github.io/password-generator/",
@@ -53,6 +58,7 @@
     {
         "id": 5,
         "name": "coding quiz",
+        "category": "JS, HTML, CSS",
         "source": "./assets/images/coding quiz.png",
         "github": "https://github.com/down-dive/coding-quiz",
         "deployedlink": "https://down-dive.github.io/coding-quiz",
@@ -62,6 +68,7 @@
     },
     {
         "id": 6,
+        "category": "API",
         "name": "work day scheduler",
         "github": "https://github.com/down-dive/scheduler",
         "deployedlink": "https://down-dive.github.io/scheduler/",
@@ -71,6 +78,7 @@
     },
     {
         "id": 7,
+        "category": "API",
         "name": "Pokemon Bootcamp Battle",
         "github": "https://github.com/MeganClo/Pokemon-Bootcamp-Battle",
         "deployedlink": "https://meganclo.github.io/Pokemon-Bootcamp-Battle/",
@@ -82,6 +90,7 @@
     {
         "id": 8,
         "name": "note taker",
+        "category": "Node.js",
         "github": "https://github.com/down-dive/note_taker",
         "deployedlink": "https://ntkr.herokuapp.com/notes",
         "tools": "JavaScript, Node.js (express.js), Bootstrap",
@@ -90,6 +99,7 @@
     },
     {
         "id": 9,
+        "category": "Node.js",
         "name": "fullstack pokemon game",
         "github": "https://github.com/sarahdurks/fullstack-pokemon-game",
         "deployedlink": "https://pokemon-fullstack.herokuapp.com/",

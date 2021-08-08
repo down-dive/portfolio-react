@@ -654,10 +654,6 @@ text-align:left;
   transform: rotate(-135deg);
 }
 
-/* .about {
-  padding: 10rem;
-} */
-
 .section-about {
   padding: 13rem 0;}
   @media only screen and (max-width: 56.25em) {
