@@ -35,7 +35,7 @@ The main purpose of this project is to use react for creating a professional por
 
 * Portfolio
 
-![alt=portfolio](./src/assets/screenshots/projects.png)
+![alt=portfolio](./src/assets/screenshots/project.png)
 
 * About
 
