@@ -25,7 +25,21 @@ The main purpose of this project is to use react for creating a professional por
 
 ## Screenshots
 
-Please see below for the screenshots of this application:
+* Hero page
+
+![alt=about](./src/assets/screenshots/hero.png)
+
+* Portfolio
+
+![alt=portfolio](./src/assets/screenshots/projects.png)
+
+* About
+
+![alt=contact](./src/assets/screenshots/about.png)
+
+* Contact
+
+![alt=resume](./src/assets/screenshots/contact.png)
 
 ## Available Scripts
 
