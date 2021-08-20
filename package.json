@@ -2,7 +2,9 @@
   "homepage": "https://down-dive.github.io/YevT-portfolio-react/public/index.html",
   "name": "portfolio-react",
   "version": "0.1.0",
-
+  "engines": {
+    "node": "14.16.0"
+  },
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
@@ -22,8 +24,7 @@
     "react-scripts": "4.0.3",
     "react-social-icons": "^5.5.1",
     "react-toastify": "^7.0.4",
-    "web-vitals": "^1.1.2",
-    "node": "^14.16.0"
+    "web-vitals": "^1.1.2"
   },
   "scripts": {
     "predeploy": "npm run build",
