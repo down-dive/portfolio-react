@@ -1,6 +1,6 @@
-import photoOne from '../../assets/covers/FAMILY.JPG'
-import photoTwo from '../../assets/covers/OCULUS.JPG'
-import photoThree from '../../assets/covers/ME.JPG'
+import photoOne from '../../assets/covers/FAMILY.PNG.'
+import photoTwo from '../../assets/covers/OCULUS.PNG'
+import photoThree from '../../assets/covers/ME.PNG'
 
 function About() {
   return (
