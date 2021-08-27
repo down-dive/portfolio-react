@@ -1,4 +1,4 @@
-import photoOne from '../../assets/covers/FAMILY.PNG.'
+import photoOne from '../../assets/covers/FAMILY.PNG'
 import photoTwo from '../../assets/covers/OCULUS.PNG'
 import photoThree from '../../assets/covers/ME.PNG'
 
